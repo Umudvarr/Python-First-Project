@@ -30,4 +30,4 @@ elif hesablama == "/":
 else:
     netice = "Etibarsız əməliyyat"
 
-print("Sonuç:", netice)
+print("Netice:", netice)
